@@ -46,7 +46,7 @@ namespace Pinger
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.Write(" Page:   ");
             Console.ForegroundColor = ConsoleColor.White;
-            Console.Write(" https://siurasowo.tk");
+            Console.Write(" https://siurasowo.surge.sh");
             Console.ForegroundColor = ConsoleColor.Green;
             Console.Write(" [+]");
 
