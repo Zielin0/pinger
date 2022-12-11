@@ -22,7 +22,7 @@ namespace Pinger
       Console.ForegroundColor = ConsoleColor.Red;
       Console.Write(" IP Pinger");
       Console.ForegroundColor = ConsoleColor.Cyan;
-      Console.Write("          by Zielino");
+      Console.Write("                by Zielino");
       Console.ForegroundColor = ConsoleColor.Green;
       Console.Write(" [+]");
       Console.WriteLine("");
@@ -30,7 +30,7 @@ namespace Pinger
       Console.ForegroundColor = ConsoleColor.Green;
       Console.Write("[+]");
       Console.ForegroundColor = ConsoleColor.Yellow;
-      Console.Write(" Discord:         ");
+      Console.Write(" Discord:               ");
       Console.ForegroundColor = ConsoleColor.White;
       Console.Write("Zielino#7342");
       Console.ForegroundColor = ConsoleColor.Green;
